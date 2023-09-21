@@ -20,4 +20,6 @@ func main(){
 	fmt.Println("Fourth Commit")
 
 	fmt.Println("Jajal ajaa sayaa mah")
+
+	fmt.Println("First Commit Bagaskoro")
 }
