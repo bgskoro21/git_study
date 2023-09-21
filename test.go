@@ -10,4 +10,6 @@ func main(){
 	}
 
 	fmt.Println(names)
+
+	fmt.Println("Hello World")
 }
